@@ -26,7 +26,7 @@ When your implementation loop through the list, **please setup your implementati
 **Example**
 | Original Vietnamese Words  | Other variants |
 | ------------- | ------------- |
-| đủ má  | du ma, duma, dm, đm, đmá |
+| đù má  | du ma, duma, dm, đm, đmá |
 
 # Contributing to the Vietnamese Offensive Words list
 We are welcome every contribution to this Vietnamese Offensive Words list. Please open a Pull Request (insert link here), or submit an issue (insert link here) if you want to contribute a new, smelly offensive word to the list.
